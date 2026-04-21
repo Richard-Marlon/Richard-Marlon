@@ -48,12 +48,21 @@
 </p>
 
 ---
-
-## 🌌 Troféus
+## 🧠 Engenharia em Construção
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Richard-Marlon&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=22&center=true&vCenter=true&width=600&lines=Construindo+sistemas+escaláveis;Foco+em+performance+e+boas+práticas;Sempre+aprendendo+algo+novo..." />
 </p>
+
+---
+
+## ⚙️ Filosofia de Código
+
+```bash
+> clean_code = true
+> foco = "resolver problemas reais"
+> aprendizado_continuo = true
+> status: evoluindo...
 
 ---
 
