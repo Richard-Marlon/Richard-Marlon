@@ -29,14 +29,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Richard-Marlon&theme=tokyo-night&hide_border=true&bg_color=0A192F&color=00F7FF&line=00F7FF&point=FFFFFF" />
 </p>
 ---
-## 🔥 Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Richard-Marlon&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🐍 Snake Animation
 
 <p align="center">
