@@ -28,21 +28,7 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Richard-Marlon&theme=tokyo-night&hide_border=true&bg_color=0A192F&color=00F7FF&line=00F7FF&point=FFFFFF" />
 </p>
-
 ---
-
-## 🖥️ Runtime Status
-
-```bash
-user@dev:~$ status
-
-🧠 lógica            █████████░░ 90%
-⚙️ backend          ████████░░░ 80%
-🌐 frontend         ██████░░░░░ 60%
-📚 aprendizado      ███████████ 100%
-🚀 evolução         ██████████░ 95%
----
-
 ## 🔥 Streak
 
 <p align="center">
