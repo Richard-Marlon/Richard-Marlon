@@ -1,27 +1,26 @@
-<!-- Banner animado -->
+<!-- Banner animado com typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+Richard+Marlon;Estudante+de+Engenharia+de+Software;Sempre+aprendendo+novas+tecnologias" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=30&center=true&vCenter=true&width=700&lines=Olá,+eu+sou+Richard+Marlon;Engenharia+de+Software;Bem-vindo+ao+meu+perfil" />
+</p>
+
+<!-- Linha animada -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0A192F&height=120&section=header"/>
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mim
 🎓 Estudante de Engenharia de Software  
-🚀 Focado em evolução constante  
-💡 Interesse em desenvolvimento e tecnologia  
+🚀 Evoluindo constantemente  
+💡 Apaixonado por tecnologia  
 
 ---
 
 ## 🛠️ Tecnologias
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+  <img src="https://skillicons.dev/icons?i=c,python,java,javascript,html,css,git" />
 </p>
 
 ---
@@ -29,8 +28,8 @@
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -38,12 +37,12 @@
 ## 🔥 Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEUUSUARIO&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=SEUUSUARIO&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🐍 Contribuições
+## 🐍 Snake Animation
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/SEUUSUARIO/SEUUSUARIO/output/github-contribution-grid-snake.svg" />
@@ -51,16 +50,15 @@
 
 ---
 
-## 🌐 Contato
+## 🌌 Efeito visual extra
 
 <p align="center">
-  <a href="https://github.com/SEUUSUARIO">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=SEUUSUARIO&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
+<!-- Rodapé animado -->
 <p align="center">
-  ✨ "Sempre aprendendo, sempre evoluindo." ✨
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:00F7FF&height=120&section=footer"/>
 </p>
