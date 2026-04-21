@@ -23,14 +23,24 @@
 </p>
 
 ---
-
-## 📊 Estatísticas
+## 🧬 Dev Metrics
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Richard-Marlon&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richard-Marlon&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Richard-Marlon&theme=tokyo-night&hide_border=true&bg_color=0A192F&color=00F7FF&line=00F7FF&point=FFFFFF" />
 </p>
 
+---
+
+## 🖥️ Runtime Status
+
+```bash
+user@dev:~$ status
+
+🧠 lógica            █████████░░ 90%
+⚙️ backend          ████████░░░ 80%
+🌐 frontend         ██████░░░░░ 60%
+📚 aprendizado      ███████████ 100%
+🚀 evolução         ██████████░ 95%
 ---
 
 ## 🔥 Streak
