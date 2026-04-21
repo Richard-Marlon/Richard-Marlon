@@ -43,6 +43,14 @@
 
 ---
 
+## 🐍 Contribuições
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SEUUSUARIO/SEUUSUARIO/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 ## 🌐 Contato
 
 <p align="center">
