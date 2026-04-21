@@ -6,9 +6,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0A192F&height=120&section=header"/>
 </p>
-
 ---
-
 ## 👨‍💻 Sobre mim
 🎓 Estudante de Engenharia de Software  
 🚀 Evoluindo constantemente  
@@ -41,7 +39,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=22&center=true&vCenter=true&width=600&lines=Construindo+sistemas+escaláveis;Foco+em+performance+e+boas+práticas;Sempre+aprendendo+algo+novo..." />
 </p>
-
 ---
 
 ## ⚙️ Filosofia de Código
@@ -51,8 +48,6 @@
 > foco = "resolver problemas reais"
 > aprendizado_continuo = true
 > status: evoluindo...
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:00F7FF&height=120&section=footer"/>
