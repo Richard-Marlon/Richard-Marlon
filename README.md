@@ -49,14 +49,6 @@
 
 ---
 
-## 🌌 Troféus
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Richard-Marlon&theme=darkhub" />
-</p>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:00F7FF&height=120&section=footer"/>
 </p>
