@@ -27,13 +27,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Richard-Marlon&theme=tokyo-night&hide_border=true&bg_color=0A192F&color=00F7FF&line=00F7FF&point=FFFFFF" />
 </p>
 ---
-## 🐍 Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Richard-Marlon/Richard-Marlon/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 ## 🧠 Engenharia em Construção
 
 <p align="center">
